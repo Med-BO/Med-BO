@@ -9,11 +9,10 @@
 
 - 💬 Feel free to ask me about **anything**
 
-- 📫 How to reach me **mohamed.ben.othman@gmail.com**
+- 📫 How to reach me **mohamed.ben.othman@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamedbenothman1/](https://www.linkedin.com/in/mohamedbenothman1/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
