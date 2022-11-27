@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as full stack web developer at **Tsunami IT**
 
-- 🌱 I’m currently learning **Cloud & desktop development**
+- 🌱 I’m currently learning **AWS & mobile development with Flutter**
 
 - 💬 Feel free to ask me about **anything**
 
