@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=med-bo" alt="med-bo" /></a> </p>
 
-- 🔭 I’m currently working as full stack web developer at **Tsunami IT**
+- 🔭 I’m currently working as full stack developer at **Tsunami IT**
 
 - 🌱 I’m currently learning **AWS & mobile development with Flutter**
 
