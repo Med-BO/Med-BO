@@ -1,7 +1,7 @@
 <div align="center">
   <img height="80" src="https://med-bo.github.io/assets/images/logo/Logo_colors.png"  />
-  <a target="_blank" href="https://med-bo.github.io/">
-    <h3 style="text-align: center;">Check out my Portfolio</h3>
+  <a target="_blank" href="https://med-bo.github.io/" style="display: block; text-align: center;">
+    <h3>Check out my Portfolio</h3>
   </a>
 </div>
 
