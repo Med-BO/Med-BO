@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Mohamed from Tunisia<br><br>- 🔭 I’m working as Full Stack Web Developer at UBIAI.<br>- 📚 I'm currently learning Cloud Computing concepts and delving deeper into Design Patterns.<br>- ⚡ I'm preparing to launch my own Startup, reach out if you'd like to collaborate!</p>
+<p align="left">I'm Mohamed from Tunisia<br><br>- 🔭 I’m working as Frontend Developer at AZCARE.<br>- 📚 I'm currently learning Cloud Computing concepts and delving deeper into Design Patterns.<br>- ⚡ I've just launched my own Startup Arisaka, reach out if you'd like to collaborate!</p>
 
 ###
 
